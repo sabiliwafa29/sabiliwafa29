@@ -68,7 +68,7 @@
 ## 📌 Pinned Projects
 
 <div align="center">
-  <a href="https://github.com/sabiliwafa29/MindSpace-CP">
+  <a href="https://github.com/sabiliwafa29/FarmnesiaTok">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sabiliwafa29&repo=PROJECT_1&theme=radical&hide_border=true" alt="Project 1" />
   </a>
   <a href="https://github.com/sabiliwafa29/DataPasien">
