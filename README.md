@@ -60,20 +60,7 @@
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sabiliwafa29&show_icons=true&theme=radical&hide_border=true&count_private=true" alt="GitHub Stats" height="170" />
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=sabiliwafa29&theme=radical&hide_border=true" alt="GitHub Streak" height="170" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sabiliwafa29&layout=compact&theme=radical&hide_border=true&langs_count=8" alt="Top Languages" />
-</div>
-
----
-
-## 🏆 GitHub Trophies
-
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=sabiliwafa29&theme=radical&no-frame=true&no-bg=false&margin-w=4&row=1" alt="GitHub Trophies" />
 </div>
 
 ---
@@ -81,10 +68,10 @@
 ## 📌 Pinned Projects
 
 <div align="center">
-  <a href="https://github.com/sabiliwafa29/PROJECT_1">
+  <a href="https://github.com/sabiliwafa29/MindSpace-CP">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sabiliwafa29&repo=PROJECT_1&theme=radical&hide_border=true" alt="Project 1" />
   </a>
-  <a href="https://github.com/sabiliwafa29/PROJECT_2">
+  <a href="https://github.com/sabiliwafa29/DataPasien">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=sabiliwafa29&repo=PROJECT_2&theme=radical&hide_border=true" alt="Project 2" />
   </a>
 </div>
