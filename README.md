@@ -69,10 +69,10 @@
 
 <div align="center">
   <a href="https://github.com/sabiliwafa29/FarmnesiaTok">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sabiliwafa29&repo=PROJECT_1&theme=radical&hide_border=true" alt="Project 1" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sabiliwafa29&repo=FarmnesiaTok&theme=radical&hide_border=true" alt="Project 1" />
   </a>
   <a href="https://github.com/sabiliwafa29/DataPasien">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sabiliwafa29&repo=PROJECT_2&theme=radical&hide_border=true" alt="Project 2" />
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=sabiliwafa29&repo=DataPasien&theme=radical&hide_border=true" alt="Project 2" />
   </a>
 </div>
 
